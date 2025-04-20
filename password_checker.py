@@ -47,3 +47,5 @@ else:
     print(f"Password strength: Weak")       #when all conditions fail, password is weak
 
 print(password)     #Display password
+
+#adding this comment to create a difference in the versions
